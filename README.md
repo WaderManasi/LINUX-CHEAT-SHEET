@@ -1,6 +1,6 @@
 ### :gem: LINUX CHEATSHEET 
 
-*:ballot_box_with_check: Let's Hands-on the Linux Commands for working on Super Useful and Powerful Linux Command Line Interface (CLI)* :round_pushpin:
+*:ballot_box_with_check: Let's Hands-on the Linux Commands for working on Super Useful and Powerful Linux Command Line Interface (CLI)* :cyclone:
 
 #### ********************** :o: LINUX SYSTEM COMMANDS :o: *********************************
 
