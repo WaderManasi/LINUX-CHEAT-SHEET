@@ -2,7 +2,7 @@
 
 *:ballot_box_with_check: Let's Hands-on the Linux Commands for working on Super Useful and Powerful Linux Command Line Interface (CLI)* :round_pushpin:
 
-### ********************** :o: LINUX SYSTEM COMMANDS :o: *********************************
+#### ********************** :o: LINUX SYSTEM COMMANDS :o: *********************************
 
 - sudo                          :short name for "SuperUser Do" enables to perform tasks which require administrative or root permissions
 - ls                            :list of directories
@@ -35,14 +35,14 @@
 
 
 
-### *********************** :o: LINUX SHUTDOWN COMMANDS :o: *********************************
+#### *********************** :o: LINUX SHUTDOWN COMMANDS :o: *********************************
 
--shutdown -h now               :immediately power off & shutdown the system 
--shutdown -h +5                :shutdown the system after 5 minutes
--shutdown -r now               :reboot the system 
--shutdown -Fr now              :force file system check during reboot
+- shutdown -h now               :immediately power off & shutdown the system 
+- shutdown -h +5                :shutdown the system after 5 minutes
+- shutdown -r now               :reboot the system 
+- shutdown -Fr now              :force file system check during reboot
 
-### *********************** :o: LINUX FUNCTIONS :o: *********************************
+#### *********************** :o: LINUX FUNCTIONS :o: *********************************
 
 stat(file_name,address of stat object)            :gives information about file
 access(file_name,mode_of_permission)              :return positive int if process has access of the requested mode/mode_of_permission
