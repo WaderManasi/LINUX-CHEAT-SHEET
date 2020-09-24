@@ -37,14 +37,14 @@
 
 #### *********************** :o: LINUX SHUTDOWN COMMANDS :o: *********************************
 
-- shutdown -h now               :immediately power off & shutdown the system 
-- shutdown -h +5                :shutdown the system after 5 minutes
-- shutdown -r now               :reboot the system 
-- shutdown -Fr now              :force file system check during reboot
+- <b>shutdown -h now</b>               :immediately power off & shutdown the system 
+- <b>shutdown -h +5 </b>               :shutdown the system after 5 minutes
+- <b>shutdown -r now</b>               :reboot the system 
+- <b>shutdown -Fr now</b>              :force file system check during reboot
 
 #### *********************** :o: LINUX FUNCTIONS :o: *********************************
 
-- stat(file_name,address of stat object)            :gives information about file
-- access(file_name,mode_of_permission)              :return positive int if process has access of the requested mode/mode_of_permission
-- opendir()                                         :directory file handling
-- readdir()                                         :read contents of directory (data cannot be written in directory)
+- <b>stat(file_name,address of stat object)</b>            :gives information about file
+- <b>access(file_name,mode_of_permission)</b>              :return positive int if process has access of the requested mode/mode_of_permission
+- <b>opendir()</b>                                         :directory file handling
+- <b>readdir()</b>                                         :read contents of directory (data cannot be written in directory)
