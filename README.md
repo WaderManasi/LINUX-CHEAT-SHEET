@@ -32,7 +32,7 @@
 - <b>zip</b>                           :zip multiple files
 - <b>unzip</b>                         :unzip the zip folder
 - <b>clear</b>                         :to clean out the terminal with all past commands (but it is still there in history)
-
+- <b>rm -rf .git </b>                  :to remove hidden .git folder in linux
 
 
 #### *********************** :o: LINUX SHUTDOWN COMMANDS :o: *********************************
