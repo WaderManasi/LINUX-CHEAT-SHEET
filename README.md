@@ -44,7 +44,7 @@
 
 #### *********************** :o: LINUX FUNCTIONS :o: *********************************
 
-stat(file_name,address of stat object)            :gives information about file
-access(file_name,mode_of_permission)              :return positive int if process has access of the requested mode/mode_of_permission
-opendir()                                         :directory file handling
-readdir()                                         :read contents of directory (data cannot be written in directory)
+- stat(file_name,address of stat object)            :gives information about file
+- access(file_name,mode_of_permission)              :return positive int if process has access of the requested mode/mode_of_permission
+- opendir()                                         :directory file handling
+- readdir()                                         :read contents of directory (data cannot be written in directory)
