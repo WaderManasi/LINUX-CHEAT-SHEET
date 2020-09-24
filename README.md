@@ -4,7 +4,7 @@
 
 #### ********************** :o: LINUX SYSTEM COMMANDS :o: *********************************
 
-- sudo                          :short name for "SuperUser Do" enables to perform tasks which require administrative or root permissions
+- <b>sudo</b>                          :short name for "SuperUser Do" enables to perform tasks which require administrative or root permissions
 - ls                            :list of directories
 - stat                          :details of inode
 - gcc file_name.c -o myexe      :create object file while compilation and create separate excecutable
