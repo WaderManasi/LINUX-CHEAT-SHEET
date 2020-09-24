@@ -5,33 +5,33 @@
 #### ********************** :o: LINUX SYSTEM COMMANDS :o: *********************************
 
 - <b>sudo</b>                          :short name for "SuperUser Do" enables to perform tasks which require administrative or root permissions
-- ls                            :list of directories
-- stat                          :details of inode
-- gcc file_name.c -o myexe      :create object file while compilation and create separate excecutable
-- mkdir                         :make new directory
-- rmdir                         :remove directory
-- rm                            :remove file
-- touch                         :create new file
-- make                          :runs the makefile (makefile: used to manage project)
-- cd                            :enter into directory
-- cp                            :copy files from current directory to diff directory
-- pwd                           :prints current working directory
-- cat file_name                 :list the contents of file
-- mv file_name source dest      :move file from source to destination
-- find                          :searches for the files and directories
-- df                            :to get report of system disk space usage (in % and kb)
-- df -m                         :to get report of system disk space usage (in mb)
-- du                            :to check space used by file or directory (in blocks)
-- du -h                         :to check space used by file or directory (in bytes, kb and mb)
-- tar                           :used to archieve multiple files
-- chmod                         :to change read, write and execute permissions of file or directory
-- ping                          :to check connectivity status (ping google.com)
-- wget                          :to download required data from internet (eg wget download_link)
-- uname                         :nothing but stands for Unix Name (tells the unix type you are using)
-- history                       :gives list of commands used by you on terminal till date
-- zip                           :zip multiple files
-- unzip                         :unzip the zip folder
-- clear                         :to clean out the terminal with all past commands (but it is still there in history)
+- <b>ls</b>                            :list of directories
+- <b>stat</b>                          :details of inode
+- <b>gcc file_name.c -o myexe</b>      :create object file while compilation and create separate excecutable
+- <b>mkdir</b>                         :make new directory
+- <b>rmdir</b>                         :remove directory
+- <b>rm</b>                            :remove file
+- <b>touch</b>                         :create new file
+- <b>make</b>                          :runs the makefile (makefile: used to manage project)
+- <b>cd</b>                            :enter into directory
+- <b>cp</b>                            :copy files from current directory to diff directory
+- <b>pwd</b>                           :prints current working directory
+- <b>cat file_name</b>                 :list the contents of file
+- <b>mv file_name source dest</b>      :move file from source to destination
+- <b>find</b>                          :searches for the files and directories
+- <b>df</b>                            :to get report of system disk space usage (in % and kb)
+- <b>df -m</b>                         :to get report of system disk space usage (in mb)
+- <b>du</b>                            :to check space used by file or directory (in blocks)
+- <b>du -h</b>                         :to check space used by file or directory (in bytes, kb and mb)
+- <b>tar</b>                           :used to archieve multiple files
+- <b>chmod</b>                         :to change read, write and execute permissions of file or directory
+- <b>ping</b>                          :to check connectivity status (ping google.com)
+- <b>wget</b>                          :to download required data from internet (eg wget download_link)
+- <b>uname</b>                         :nothing but stands for Unix Name (tells the unix type you are using)
+- <b>history</b>                       :gives list of commands used by you on terminal till date
+- <b>zip</b>                           :zip multiple files
+- <b>unzip</b>                         :unzip the zip folder
+- <b>clear</b>                         :to clean out the terminal with all past commands (but it is still there in history)
 
 
 
