@@ -45,6 +45,9 @@
 #### *********************** :o: LINUX FUNCTIONS :o: *********************************
 
 - <b>stat(file_name,address of stat object)</b>            :gives information about file
+- <b>lstat(file_name(path)),address of stat object)</b>    :same as stat() but for symbolic links/soft links it returns info of link iself instead of target file
+- <b>fstat(file_descriptor,address of stat object)</b>     :gives metadata
 - <b>access(file_name,mode_of_permission)</b>              :return positive int if process has access of the requested mode/mode_of_permission
 - <b>opendir()</b>                                         :directory file handling
 - <b>readdir()</b>                                         :read contents of directory (data cannot be written in directory)
+- <b>closedir()</b>                                        :close the opened directory
