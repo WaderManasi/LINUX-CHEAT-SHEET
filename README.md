@@ -51,3 +51,5 @@
 - <b>opendir()</b>                                         :directory file handling
 - <b>readdir()</b>                                         :read contents of directory (data cannot be written in directory)
 - <b>closedir()</b>                                        :close the opened directory
+- <b>chmod(path,mode)(</b>                                             :system call to change the file permisssions mode
+- <b>fchmod(file_descriptor,mode)</b>                                             :system call to change the file permisssions mode
