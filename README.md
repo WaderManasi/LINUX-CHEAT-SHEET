@@ -51,5 +51,7 @@
 - <b>opendir()</b>                                         :directory file handling
 - <b>readdir()</b>                                         :read contents of directory (data cannot be written in directory)
 - <b>closedir()</b>                                        :close the opened directory
-- <b>chmod(path,mode)(</b>                                             :system call to change the file permisssions mode
-- <b>fchmod(file_descriptor,mode)</b>                                             :system call to change the file permisssions mode
+- <b>chmod(abs or rel path,mode)(</b>                                 :system call to change the file permisssions mode 
+- <b>fchmod(file_descriptor,mode)</b>                      :system call to change the file permisssions mode
+- <b>chdir(path)                                           :<unistd.h> change the current working directory
+- <b>fchdir(fd)                                            :same as above (both returns 0 on success & -1 on failure)
